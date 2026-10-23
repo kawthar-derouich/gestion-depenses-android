@@ -3,6 +3,9 @@
 Application Android de **suivi des dépenses personnelles** : on ajoute ses dépenses (même en écrivant une phrase comme « 50 DH restaurant hier »), on les classe par catégorie, on consulte des statistiques et on exporte ses données en PDF ou CSV.
 
 Les données sont stockées dans le cloud avec **Firebase**, ce qui permet de retrouver son compte et ses dépenses sur n'importe quel téléphone.
+<img width="928" height="460" alt="image" src="https://github.com/user-attachments/assets/6c648d4a-07d3-4262-9eba-c9a906bb1851" />
+<img width="916" height="462" alt="image" src="https://github.com/user-attachments/assets/00a23fbd-6a08-4065-8b8e-8e21bbb4ead1" />
+
 
 ## Fonctionnalités
 
